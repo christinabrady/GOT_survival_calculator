@@ -19,7 +19,7 @@ shinyUI(dashboardPage(skin = "blue",
 					br(),
 					h3("Its a dangerous place! Take a short survey to see if you are likely to survive."),
 					fluidRow(
-						box(width = 4, title = "What is your surname?",
+						box(width = 4, title = "What is your surname? (choose one or enter your own)",
 							selectizeInput(inputId = "name", label = NULL, choices = NULL, options = list(create = TRUE))
 						)
 					),
