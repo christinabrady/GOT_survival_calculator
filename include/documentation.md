@@ -12,7 +12,7 @@ ___
 
 ___
 
-#### <center>Please see my Github repository for the entire data set. </center>
+#### <center>Please see my [Github repository](https://github.com/christinabrady/GOT_survival_calculator) for the entire data set. </center>
 
 ___
 
