@@ -1,7 +1,7 @@
 ## 	<center>Would you survive in 'The Known World'?</center>
 ___
 
-#### <center>This is my final project for the Data Products course in the John Hopkins University Data Science Specialization on Coursera.org. Using a simple logistic regression model, it predicts your probability of surviving in The Known World, otherwise known as the universe of Game of Thrones*. I trained the model using 46 characters that appear and/or are referenced in the HBO series Game of Thrones. The predictor variables are: </center>
+#### <center>This is my final project for the Data Products course in the John Hopkins University Data Science Specialization on Coursera.org. Using a simple logistic regression model, it predicts your probability of surviving in The Known World, otherwise known as the universe of Game of Thrones. I trained the model using 46 characters that appear and/or are referenced in the HBO series Game of Thrones. The predictor variables are: </center>
 
 + __House__: This is the house that the character is currently associated with in the HBO series. For example, as Tyrion Lannister is helping Danerys Targaryen, he is currently associated with the Targaryens.
 + __Age__: This is the approximate/probable current age of the characters. For characters that have been killed, it is the approximate/probable age at which they died.
